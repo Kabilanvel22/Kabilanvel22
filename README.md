@@ -1,6 +1,6 @@
 <div align="center">
 
-[![INTRO](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=18&pause=1000&color=FF6347&random=false&width=550&lines=Hi+There!++++I+am+Kabilan%2C+the+Developer)](https://yourwebsite.com)
+[![INTRO](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=18&pause=1000&color=FF6347&random=false&width=550&lines= 👋 Hi+There!++++I+am+Kabilan%2C+the+Developer)](https://yourwebsite.com)
 
 </div>
 
@@ -37,7 +37,7 @@
   <a href="https://figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma & theme=light" alt="Figma" height="50"></a> &nbsp;
 </div>
 
-# Languages
+# 🕸️ Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilanvel22&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
